@@ -1,0 +1,22 @@
+
+{
+    "1234" : {
+        "platno" : "B1234JKT",
+        "jenis" : "minibus",
+        "kuota" : 1000,
+        "bbm"   : 1
+    },
+    "3456" : {
+        "platno" : "B3333JKT",
+        "jenis" : "minibus",
+        "kuota" : 1000,
+        "bbm"   : 1
+    },
+    "7654" : {
+        "platno" : "B5656JKT",
+        "jenis" : "minibus",
+        "kuota" : 1000,
+        "bbm"   : 1
+    }
+    
+}

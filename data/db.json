@@ -1,0 +1,65 @@
+{
+    "4319A71D": {
+      "name": "king arthur",
+      "password": "password1",
+      "profession": "king",
+      "id": "4319A71D",
+      "kuota" : 400
+    },
+    "C26EA420": {
+      "name": "rob kendal",
+      "password": "password3",
+      "profession": "code fiddler",
+      "id": "C26EA4202",
+      "kuota" : 445
+    },
+    "3": {
+      "name": "teresa may",
+      "password": "password2",
+      "profession": "brexit destroyer",
+      "id": 3,
+      "kuota" : 765
+    },
+    "4": {
+      "name": "4teresa may",
+      "password": "4password2",
+      "profession": "4brexit destroyer",
+      "id": 4,
+      "kuota" : 765
+    },
+    "5": {
+      "name": "5teresa may",
+      "password": "5password2",
+      "profession": "5brexit destroyer",
+      "id": 5,
+      "kuota" : 765
+    },
+    "6": {
+      "name": "6teresa may",
+      "password": "6password2",
+      "profession": "6brexit destroyer",
+      "id": 6,
+      "kuota" : 765
+    },
+    "1": {
+      "name": "1teresa may",
+      "password": "1password2",
+      "profession": "1brexit destroyer",
+      "id": 1,
+      "kuota" : 765
+    },
+    "2": {
+      "name": "2teresa may",
+      "password": "2password2",
+      "profession": "2brexit destroyer",
+      "id": 2,
+      "kuota" : 765
+    },
+    "7": {
+      "name": "7teresa may",
+      "password": "7password2",
+      "profession": "7brexit destroyer",
+      "id": 7,
+      "kuota" : 765
+    }
+  }
